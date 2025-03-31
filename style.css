@@ -286,6 +286,12 @@ body{
 .conatct .row{
     display:flex;
     align-items: center;
+    justify-content:center;
+    padding:5rem 0;
+}
+.contact .row .images img{
+    width:50vw;
+    height:70vh;
 }
 @media(max-width:768px){
     html{
